@@ -36,7 +36,7 @@ metadata:
   labels:
     app: minio
   name: myminio
-  namespace: minio-tenant-1
+  namespace: minio
 spec:
   certConfig: {}
   configuration:
